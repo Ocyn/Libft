@@ -1,12 +1,12 @@
 <br/>
-<p align="center">
+<p>
   <a href="https://github.com/Ocyn/Libft">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/768px-42_Logo.svg.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Libft</h3>
+  <h1>Libft</h1>
 
-  <p align="center">
+  <p>
     42 School Project | Made in 2023 - 2024
     <br/>
     <br/>
@@ -23,7 +23,6 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
-* [Contributing](#contributing)
 * [Authors](#authors)
 * [Acknowledgements](#acknowledgements)
 
