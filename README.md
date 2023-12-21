@@ -42,8 +42,13 @@ To use this library, simply include the "libft.h" header file in your C projects
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+**Compatibility Warning**
+
+This project, Libft, has primarily been developed and tested on a Linux Ubuntu system. It is essential to note that the project may encounter compatibility issues when executed on different operating systems. The utilization of Linux-specific features, libraries, or commands could lead to unexpected behavior on non-Linux platforms.
+
+To ensure optimal performance and compatibility, it is recommended to run this project on a Linux environment, preferably Ubuntu. Attempting to execute the project on other operating systems may result in errors or unintended behavior.
+
+Please consider this compatibility notice before proceeding with the compilation and execution of Libft.
 
 ### Prerequisites
 
